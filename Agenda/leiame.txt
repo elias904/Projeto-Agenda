@@ -1,0 +1,10 @@
+ INSTRUÇÕES DE COMPILAÇÃO
+ 
+ 1 - Abra um terminal na pasta src;
+ 2 - Execute o comando "gcc -o NomeDoPrograma main.c compromisso.c agenda.c";
+ 3 - Para abrir o programa execute o comando "./NomeDoPrograma".
+
+ DICAS DE USO
+
+ O Programa conta com vários campos de tamanho fixo. Por esse motivo, é recomendado que
+ seja executado em tela cheia, para que não haja quebra de linha.
